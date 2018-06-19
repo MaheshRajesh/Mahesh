@@ -1,0 +1,5 @@
+group { 'mahesh':
+
+  ensure => present
+ 
+}
